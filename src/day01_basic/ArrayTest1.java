@@ -1,5 +1,11 @@
 package day01_basic;
 
+/* GitHub : 
+a0968555221@gmail.com
+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
+https://github.com/Allson-TA/JavaOCP_20221215.git
+*/
+
 public class ArrayTest1 {
     public static void main(String[] args) {
         int[] scores = {100, 85, 74};
