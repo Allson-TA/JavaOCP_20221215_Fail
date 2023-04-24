@@ -1,6 +1,7 @@
 package day03_basic;
 
-//05:45
+//05:45剩餘片段
+
 public class StringDemo2 {
 
 	public static void main(String[] args) {
