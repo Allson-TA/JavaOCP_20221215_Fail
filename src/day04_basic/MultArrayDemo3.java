@@ -23,5 +23,4 @@ public class MultArrayDemo3 {
 		}
 		
 	}
-gx 
 }
