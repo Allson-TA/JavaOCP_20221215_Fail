@@ -80,5 +80,13 @@ public class TicTacToe {
     }
     
     public static void printTTT() {
-        for(int i=0;i<ttt.length;i++) {
-            System.out.printf("
+        for (int i = 0; i < ttt.length; i++) {
+            System.out.printf("%c ", ttt[i]);
+            if ((i + 1) % 3 == 0) {
+                System.out.println();
+            }
+        }
+        System.out.println();
+    }
+
+}

@@ -14,7 +14,7 @@ public class Employee {
     
     /*  除非參數跟當初定義的不一樣
     public Employee(String a, int b) {
-        //定義不同名稱就不使用This.
+        //	定義不同名稱就不使用This.
         name = a;   
         salary = b;
     }    

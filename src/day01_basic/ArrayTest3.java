@@ -19,7 +19,7 @@ public class ArrayTest3 {
         int sum = 0;
         for (int x : scores) {
             sum += x;
-        }//nns
+        }
         return sum;
     }
        
@@ -27,5 +27,5 @@ public class ArrayTest3 {
         int sum = getSum(scores);
         double avg = (double)sum / scores.length;
         return avg ;
-    }//aadd
-}//
+    }
+}
